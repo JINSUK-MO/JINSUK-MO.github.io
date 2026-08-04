@@ -12,6 +12,13 @@ main:
     url: /skills/
   - title: "Blog"
     url: /blog/
+
+
+Research:
+  - title: "2024"
+    url: /2024/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
