@@ -10,7 +10,7 @@ sidebar:
 # Jinsuk Mo
 ### Education
 
-Materials Science and Engineering, Korea University <br>
+Materials Science and Engineering, Korea University<br>
 4-semester hiatus due to mandatory military service
 
 
