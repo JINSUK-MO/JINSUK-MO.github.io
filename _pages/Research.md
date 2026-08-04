@@ -11,4 +11,3 @@ sidebar:
 
 - [2024](/2024_r/)
 
-Please use the navigation menu on the left to explore my research activities by year.
