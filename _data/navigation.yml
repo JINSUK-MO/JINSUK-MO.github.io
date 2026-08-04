@@ -19,6 +19,30 @@ research:
     url: /2024_r/
 
 
+projects:
+  - title: "2024"
+    url: /2024_p/
+  - title: "2025"
+    url: /2025_p/
+  -title: "2026"
+    url: /2026_p/
+
+
+2024_p:
+  - title: "Alchemist Future Innovation Idea Competition"
+    url: /alchemi/
+  - title: "Smart Convergence Materials Science and Technology Competition"
+    url: /gist/
+
+2025_p:
+  - title: "The 6th Corrosion Case Poster Contest 2025"
+    url: /corro/
+
+2026_p:
+  - title: "Campus Patent Universiade"
+    url: /pat/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
