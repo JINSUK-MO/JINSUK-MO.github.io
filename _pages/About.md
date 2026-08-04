@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 
 sidebar:
-  nav: "overview"
+  nav: "About"
 ---
 
 # Jinsuk Mo
