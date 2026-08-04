@@ -11,6 +11,7 @@ sidebar:
 ### Education
 
 Materials Science and Engineering, Korea University
+4-semester hiatus due to mandatory military service
 
 
 ### GPA
