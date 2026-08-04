@@ -28,4 +28,4 @@ Materials Science and Engineering, Korea University
 
 ### CV
 
-[📄 Download CV](/assets/pdfs/Jinsuk_Mo_CV.pdf)
+[📄 Download CV](/assets/pdfs/CV_Jinsuk_Mo.pdf)
