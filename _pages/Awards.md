@@ -12,13 +12,13 @@ sidebar:
 ## Awards
 
 ### 2025
-- Honorable Mention
+- Honorable Mention<br>
   [The 6th Corrosion Case Poster Contest 2025](/corro/)
   <br>
   The Corrosion Science Society of Korea
 
 ### 2024
-- Co-recipient of the 1st Place Award, Excellence Award
+- Co-recipient of the 1st Place Award, Excellence Award<br>
   [Smart Convergence Materials Science and Technology Competition](/gist/)
   Gwangju Institute of Science and Technology (GIST)
 
