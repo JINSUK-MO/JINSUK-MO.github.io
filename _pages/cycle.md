@@ -42,3 +42,6 @@ In this experiment, both the working electrode and the counter electrode were ca
 <br>
 
 ### Experiment Results
+
+
+I<sub>p</sub> = 3.01 × 10<sup>5</sup> · A · n<sup>3/2</sup> · (1 − α)<sup>1/2</sup> · D<sub>ox</sub><sup>1/2</sup> · c<sub>0,ox</sub> · √v
