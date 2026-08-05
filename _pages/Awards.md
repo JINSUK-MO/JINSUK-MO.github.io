@@ -9,7 +9,7 @@ sidebar:
 ---
 <br>
 
-## Awards
+## Awards by Year
 
 ### 2025
 - **Honorable Mention**<br>
