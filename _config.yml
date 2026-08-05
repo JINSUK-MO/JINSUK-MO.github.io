@@ -21,7 +21,7 @@ title                    : "Jinsuk Mo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jinsuk Mo"
-description              : "An amazing website."
+description              : "Research portfolio of Jinsuk Mo"
 url                      : "https://JINSUK-MO.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,22 +114,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jinsuk Mo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Undergraduate student in **Materials Science and Engineering** at Korea University"
+  location         : "Seoul, Korea"
+  email            : "mo9288@korea.ac.kr"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:mo9288@korea.ac.kr"
+      url: "mailto:mojinsuk03@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jinsuk-mo-423171346?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
       # url: "https://facebook.com/"
@@ -147,9 +148,10 @@ footer:
       icon: "fab fa-fw fa-square-x-twitter"
       # url:
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:mo9288@korea.ac.kr"
+      url: "mailto:mojinsuk03@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -159,10 +161,10 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jinsuk-mo-423171346?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
+
 
 
 # Reading Files
