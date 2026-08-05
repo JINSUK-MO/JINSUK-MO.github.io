@@ -8,6 +8,9 @@ sidebar:
   nav: "projects"
 ---
 
+## Topic
+**Reversible meta-surfaces and IR laser for optical communication**
+
 
 ### Purpose of the Competition
 An idea competition aimed at promoting future-oriented R&D and the development of core technologies.
@@ -16,10 +19,6 @@ An idea competition aimed at promoting future-oriented R&D and the development o
 ### Hosted by
 Ministry of Trade, Industry and Energy and Korea Planning & Evaluation Institute of Industrial 
 Technology (KEIT)
-
-
-## Topic
-**Reversible meta-surfaces and IR laser for optical communication**
 
 
 ### Overview
