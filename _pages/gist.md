@@ -37,6 +37,7 @@ Gwangju Institute of Science and Technology (GIST)
 <div style="text-align: center;">
   <img src="/assets/images/gistmechanism.jpg" width="70%" alt="Mechanism">
 </div>
+
 - Type-II heterojunction promotes spatial charge separation and suppresses electron–hole recombination
 
 
