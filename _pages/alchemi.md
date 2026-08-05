@@ -27,7 +27,6 @@ Technology (KEIT)
 - Signal attenuation over long distances
 - Atmospheric interference limiting optical communication
 <br>
-<br>
 **To-Be**
 - Adaptive compensation of atmospheric effects using **metasurfaces**
 - High-reliability long-distance optical communication
