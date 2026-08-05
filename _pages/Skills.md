@@ -8,4 +8,24 @@ sidebar:
   nav: "skills"
 ---
 
-## Selected projects by Year
+### Experimental Techniques
+- Cyclic voltammetry
+
+<br>
+<br>
+
+### Certificates
+- TOEFL 110/120  (*ETS, 2026*)
+- Goethe Zertifikat B1  (*Goethe Institute. 2026*)
+- Computer Specialist in Spreadsheet and Database (*Korea Chamber of Commerce and Industry, 2025*)
+- Advanced Data analysis Semi-Professional (*K-Data, 2024*)
+- Driver’s license (*2022*) 
+
+
+<br>
+<br>
+
+### Languates
+- Korean (Native)
+- English (Full Academic Fluency, CEFR C1)
+- German (CEFR B1)
