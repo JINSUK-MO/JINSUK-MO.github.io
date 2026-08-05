@@ -25,7 +25,7 @@ sidebar:
 ### Electrochemical System
 - **Quinone/Hydroquinone Redox Reaction**
 <br>
-Reversible surface redox couple on carbon paper
+Surface redox couple on carbon paper
 <br>
 - **Irreversible Randles–Ševčík equation**
 <br>
