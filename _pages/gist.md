@@ -13,7 +13,7 @@ sidebar:
 **Pd single-atom-coordinated g-C<sub>3</sub>N<sub>4</sub> self-assembled partially oxidized Ti<sub>3</sub>C<sub>2</sub> MXene type II-II heterojunction photocatalyst for reduction and conversion of greenhouse gas**
 
 
-### ### Host · Duration
+### Host · Duration
 Gwangju Institute of Science and Technology (GIST) | *Aug. 2024 – Oct. 2024*
 
 
