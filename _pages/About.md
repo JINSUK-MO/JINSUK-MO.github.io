@@ -23,6 +23,7 @@ Materials Science and Engineering, Korea University<br>
 ### Research Interests
 
 - Surface and Interface Science
+- Surface Functionalization
 - 2D materials
 - Phase Transformations
 
