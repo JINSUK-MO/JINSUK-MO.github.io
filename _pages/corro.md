@@ -16,6 +16,10 @@ sidebar:
 The Corrosion Science Society of Korea
 
 
+### Duration
+*Mar. 2025 – Sep. 2025*
+
+
 ### Overview
 Investigated the corrosion mechanism of reinforcing steel exposed to marine atmospheres by analyzing phase transformations of corrosion products. Proposed replacing unstable magnetite with a stable goethite layer through Cr and Si alloying to suppress stress accumulation and improve corrosion resistance.
 
