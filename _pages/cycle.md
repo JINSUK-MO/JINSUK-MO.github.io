@@ -42,7 +42,16 @@ In this experiment, both the working electrode and the counter electrode were ca
 <br>
 
 ### Experiment Results
+1. Cyclic Voltammogram
+<div style="text-align: center;">
+  <img src="/assets/images/cvresult.jpg" width="50%" alt="Overview">
+</div>
 
+<br>
+2. Cyclic Voltammetry results
+<div style="text-align: center;">
+  <img src="/assets/images/cvdata.jpg" width="70%" alt="Overview">
+</div>
 
 <br>
 
