@@ -27,3 +27,11 @@ The Corrosion Science Society of Korea
 - High-reliability long-distance optical communication
 - Scalable satellite-assisted optical communication network
 - Rapid transmission of high-capacity data
+
+
+### Poster
+<object data="/assets/pdfs/CSSK.pdf"
+        type="application/pdf"
+        width="100%"
+        height="100">
+</object>
