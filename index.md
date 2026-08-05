@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 author_profile: true
 ---
 
@@ -19,5 +19,3 @@ This website showcases my research interests, projects, and academic achievement
 
 **Thank you for visiting my website. I hope you find it informative.**
 
-
-<p>This text should appear above the recent posts.</p>
