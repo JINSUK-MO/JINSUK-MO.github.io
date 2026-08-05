@@ -19,7 +19,7 @@ Gwangju Institute of Science and Technology (GIST)
 
 ### Overview
 <div style="text-align: center;">
-  <img src="/assets/images/gistoverview.jpg" width="50%" alt="Overview">
+  <img src="/assets/images/gistoverview.jpg" width="70%" alt="Overview">
 </div>
 
 
@@ -31,29 +31,12 @@ Gwangju Institute of Science and Technology (GIST)
 
 ### Summary
 **Mechanism**<br>
-<div style="text-align: center;">
-  <img src="/assets/images/cssk.jpg" width="50%" alt="Corrosion Mechanism">
-</div>
-Chloride ions penetrate concrete cracks, causing localized corrosion and the formation of unstable oxyhydroxide corrosion products.
-<br>
+- Pd–g-C₃N₄ synthesis using PdCl₂ and dicyandiamide
 <br>
 
 <div style="text-align: center;">
-  <img src="/assets/images/cssk2.jpg" width="80%" alt="Corrosion Mechanism">
+  <img src="/assets/images/gistmechanism.jpg" width="70%" alt="Mechanism">
 </div>
-Formation of multilayer rust through phase transformation
-<br>
-<br>
+- Type-II heterojunction promotes spatial charge separation and suppresses electron–hole recombination
 
-**Intrinsic problem of Magnetite**<br>
-<div style="text-align: center;">
-  <img src="/assets/images/cssk3.jpg" width="80%" alt="Corrosion Mechanism">
-</div>
-(a), (b) Fracture surface morphology and identified phases and (c) predicted delamination path<br>
-The large molar volume of magnetite and its dissolution under alkaline conditions cause local volume changes, resulting in stress accumulation and layer delamination.
-<br>
-<br>
-
-**Solution**<br>
-Replacing Magnetite (unstable) with Goethite (stable)
 
