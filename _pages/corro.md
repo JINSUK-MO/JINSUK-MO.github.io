@@ -17,16 +17,26 @@ The Corrosion Science Society of Korea
 
 
 ### Overview
-**As-Is**
-- Signal attenuation over long distances
-- Atmospheric interference limiting optical communication
+Investigated the corrosion mechanism of reinforcing steel exposed to marine atmospheres by analyzing phase transformations of corrosion products. Proposed replacing unstable magnetite with a stable goethite layer through Cr and Si alloying to suppress stress accumulation and improve corrosion resistance.
 
 
-**To-Be**
-- Adaptive compensation of atmospheric effects using **metasurfaces**
-- High-reliability long-distance optical communication
-- Scalable satellite-assisted optical communication network
-- Rapid transmission of high-capacity data
+### Key Aspects
+- Chloride-induced corrosion mechanism under alkaline conditions (concrete) in marine atmospheres
+- Phase transformation and multilayer rust formation
+- Cr/Si alloying strategy for stable goethite formation
+- Corrosion mitigation through microstructural control
+
+
+### Summary
+**Mechanism**
+<div style="text-align: center;">
+  <img src="/assets/images/cssk.jpg" width="250" alt="Corrosion Mechanism">
+</div>
+
+**Intrinsic problem of Magnetite**
+
+
+**Solution**
 
 
 ### Poster
