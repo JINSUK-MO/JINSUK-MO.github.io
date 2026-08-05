@@ -30,14 +30,14 @@ Investigated the corrosion mechanism of reinforcing steel exposed to marine atmo
 ### Summary
 **Mechanism**<br>
 <div style="text-align: center;">
-  <img src="/assets/images/cssk.jpg" width="250" alt="Corrosion Mechanism">
+  <img src="/assets/images/cssk.jpg" width="50%" alt="Corrosion Mechanism">
 </div>
 Chloride ions penetrate concrete cracks, causing localized corrosion and the formation of unstable oxyhydroxide corrosion products.
 <br>
 <br>
 
 <div style="text-align: center;">
-  <img src="/assets/images/cssk2.jpg" width="250" alt="Corrosion Mechanism">
+  <img src="/assets/images/cssk2.jpg" width="80%" alt="Corrosion Mechanism">
 </div>
 Formation of multilayer rust through phase transformation
 <br>
@@ -45,7 +45,7 @@ Formation of multilayer rust through phase transformation
 
 **Intrinsic problem of Magnetite**<br>
 <div style="text-align: center;">
-  <img src="/assets/images/cssk3.jpg" width="250" alt="Corrosion Mechanism">
+  <img src="/assets/images/cssk3.jpg" width="80%" alt="Corrosion Mechanism">
 </div>
 (a), (b) Fracture surface morphology and identified phases and (c) predicted delamination path<br>
 The large molar volume of magnetite and its dissolution under alkaline conditions cause local volume changes, resulting in stress accumulation and layer delamination.
