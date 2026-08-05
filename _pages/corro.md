@@ -47,7 +47,7 @@ Formation of multilayer rust through phase transformation
 <div style="text-align: center;">
   <img src="/assets/images/cssk3.jpg" width="80%" alt="Corrosion Mechanism">
 </div>
-(a), (b) Fracture surface morphology and identified phases and (c) predicted delamination path<br>
+(a), (b) Fracture surface morphology and identified phases and (c) predicted delamination path<br><br>
 The large molar volume of magnetite and its dissolution under alkaline conditions cause local volume changes, resulting in stress accumulation and layer delamination.
 <br>
 <br>
