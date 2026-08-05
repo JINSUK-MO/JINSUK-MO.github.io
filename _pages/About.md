@@ -27,6 +27,11 @@ Materials Science and Engineering, Korea University<br>
 - Phase Transformations
 
 
+### Email
+
+mo9288@korea.ac.kr
+
+
 ### CV
 
 [📄 Download CV](/assets/pdfs/CV_Jinsuk_Mo.pdf)
