@@ -10,7 +10,7 @@ sidebar:
 
 ## Topic
 
-**Pd single-atom-coordinated g-C<sub>3</sub>N4 self-assembled partially oxidized Ti3C2 MXene type II-II heterojunction photocatalyst for reduction and conversion of greenhouse gas**
+**Pd single-atom-coordinated g-C<sub>3</sub>N<sub>4</sub> self-assembled partially oxidized Ti<sub>3</sub>C<sub>2</sub> MXene type II-II heterojunction photocatalyst for reduction and conversion of greenhouse gas**
 
 
 ### Hosted by
@@ -24,7 +24,7 @@ Gwangju Institute of Science and Technology (GIST)
 
 
 ### Key Aspects
-- MXene-TiO2/g-C3N4 type II-II heterojunction
+- MXene-TiO<sub>2</sub>/g-C<sub>3</sub>N<sub>4</sub> type II-II heterojunction
 - Coordination-stabilized Pd single atom catalysts (SACs)
 - Low-coordinated Ti active sites
 
