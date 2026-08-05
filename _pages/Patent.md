@@ -5,6 +5,6 @@ classes: wide
 permalink: /pat/
 
 sidebar:
-  nav: "2026_p"
+  nav: "projects"
 ---
 
