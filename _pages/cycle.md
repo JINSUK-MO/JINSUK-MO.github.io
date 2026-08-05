@@ -23,9 +23,13 @@ sidebar:
 <br>
 
 ### Electrochemical System
-**Quinone/Hydroquinone Redox Reaction**
+- **Quinone/Hydroquinone Redox Reaction**
 <br>
 Reversible surface redox couple on carbon paper
+<br>
+- **Irreversible Randles–Ševčík equation**
+<br>
+I<sub>p</sub> = 3.01 × 10<sup>5</sup> · A · n<sup>3/2</sup> · (1 − α)<sup>1/2</sup> · D<sub>ox</sub><sup>1/2</sup> · c<sub>0,ox</sub> · √v (Eq. 1)
 
 <br>
 
@@ -63,4 +67,38 @@ In this experiment, both the working electrode and the counter electrode were ca
 <br>
 
 ### Conclusions
-I<sub>p</sub> = 3.01 × 10<sup>5</sup> · A · n<sup>3/2</sup> · (1 − α)<sup>1/2</sup> · D<sub>ox</sub><sup>1/2</sup> · c<sub>0,ox</sub> · √v
+**Peak Current**
+<br>
+
+- Peak current increased with scan rate, consistent with diffusion-controlled electrochemical behavior
+- Higher scan rates resulted in larger oxidation and reduction currents
+
+<br>
+
+**Peak Separation (ΔEp)**
+<br>
+
+- Peak separation exhibited fluctuations with increasing scan rate rather than a monotonic increase
+- The observed peak shift may suggest **kinetic limitations**; however, **the absence of a clear trend** indicates that additional factors or experimental uncertainty should also be considered
+
+<br>
+
+**Transfer Coefficient (α)**
+<br>
+
+- Transfer coefficient (α) calculated using Eq. 1
+- The calculated transfer coefficient was close to unity (~1)
+- This suggests that the electron-transfer process is highly sensitive to the applied potential and that the exchange current density is more strongly influenced by the oxidized species concentration than the reduced species concentration
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
