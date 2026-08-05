@@ -8,6 +8,9 @@ sidebar:
   nav: "projects"
 ---
 
+This page provides detailed overviews of selected projects featured in my CV that best represent my technical expertise and research experience.
+<br>
+
 ## Selected projects by Year
 
 - [2026](/2026_p/)
