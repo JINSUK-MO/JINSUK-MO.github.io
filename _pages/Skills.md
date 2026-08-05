@@ -12,7 +12,6 @@ sidebar:
 - Cyclic voltammetry
 
 <br>
-<br>
 
 ### Certificates
 - TOEFL 110/120  (*ETS, 2026*)
@@ -21,8 +20,6 @@ sidebar:
 - Advanced Data analysis Semi-Professional (*K-Data, 2024*)
 - Driver’s license (*2022*) 
 
-
-<br>
 <br>
 
 ### Languates
