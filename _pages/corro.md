@@ -22,21 +22,34 @@ Investigated the corrosion mechanism of reinforcing steel exposed to marine atmo
 
 ### Key Aspects
 - Chloride-induced corrosion mechanism under alkaline conditions (concrete) in marine atmospheres
-- Phase transformation and multilayer rust formation
+- Phase transformation-driven multilayer rust formation
 - Cr/Si alloying strategy for stable goethite formation
 - Corrosion mitigation through microstructural control
 
 
 ### Summary
-**Mechanism**
+**Mechanism**<br>
 <div style="text-align: center;">
   <img src="/assets/images/cssk.jpg" width="250" alt="Corrosion Mechanism">
 </div>
+Chloride ions penetrate concrete cracks, causing localized corrosion and the formation of unstable oxyhydroxide corrosion products.
+<br>
 
-**Intrinsic problem of Magnetite**
+<div style="text-align: center;">
+  <img src="/assets/images/cssk2.jpg" width="250" alt="Corrosion Mechanism">
+</div>
+Formation of multilayer rust through phase transformation
+<br>
 
+**Intrinsic problem of Magnetite**<br>
+<div style="text-align: center;">
+  <img src="/assets/images/cssk3.jpg" width="250" alt="Corrosion Mechanism">
+</div>
+(a),(b)Fracture surface morphology and identified phases and (c) predicted delamination path<br>
+The large molar volume of magnetite and its dissolution under alkaline conditions cause local volume changes, resulting in stress accumulation and layer delamination.
 
-**Solution**
+**Solution**<br>
+Replacing Magnetite (unstable) with Goethite (stable)
 
 
 ### Poster
