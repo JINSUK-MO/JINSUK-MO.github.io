@@ -5,5 +5,5 @@ classes: wide
 permalink: /corro/
 
 sidebar:
-  nav: "2025_p"
+  nav: "projects"
 ---
