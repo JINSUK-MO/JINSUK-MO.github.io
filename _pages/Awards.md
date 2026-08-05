@@ -23,7 +23,7 @@ sidebar:
   <br>
   *Gwangju Institute of Science and Technology (GIST)*
 
-- **3rd Place Award, Excellence Award**
+- **3rd Place Award, Excellence Award** <br>
   2nd Carbon Neutral Ideathon with Korea South-East Power Co. Ltd <br>
   *Korea South-East Power Co. Ltd. With participant universities in the Leaders in Industry-University
   Cooperation 3.0 (LINC 3.0): Korea University, Kangwon National University, and Pohang Institute 
