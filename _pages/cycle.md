@@ -36,7 +36,6 @@ sidebar:
 
 In this experiment, both the working electrode and the counter electrode were carbon paper electrodes.
 
-<br>
 
 - Fill the solution reservoir with 15 mL of the 3 M H₂SO₄ electrolyte.
 - Cut the carbon paper electrode so that the exposed reaction area is 1 cm × 1 cm, while the section used for electrical connection is 1 cm × 0.3 cm
