@@ -85,7 +85,7 @@ In this experiment, both the working electrode and the counter electrode were ca
 **Transfer Coefficient (α)**
 <br>
 
-- Transfer coefficient (α) calculated using Eq. 1
+- Symmetry coefficient (α) calculated using Eq. 1
 - The calculated transfer coefficient was close to unity (~1)
 - This suggests that the electron-transfer process is highly sensitive to the applied potential and that the exchange current density is more strongly influenced by the oxidized species concentration than the reduced species concentration
 
