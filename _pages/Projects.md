@@ -8,7 +8,7 @@ sidebar:
   nav: "projects"
 ---
 
-## Projects by Year
+## Selected projects by Year
 
 - [2026](/2026_p/)
 - [2025](/2025_p/)
