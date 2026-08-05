@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/images/모진석_증명사진.jpg" width="40%" alt="Profile">
+  <img src="/assets/images/모진석_증명사진.jpg" width="20%" alt="Profile">
 </div>
 
 
