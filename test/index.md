@@ -14,7 +14,10 @@ author_profile: true
 ### Welcome to my personal website.
 
 
-This website presents my research interests, projects, and academic achievements.
+This website showcases my research interests, projects, and academic achievements.
 
 
 **Thank you for visiting my website. I hope you find it informative.**
+
+
+<p>This text should appear above the recent posts.</p>
