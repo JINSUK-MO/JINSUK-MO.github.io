@@ -14,13 +14,13 @@ sidebar:
 <br>
 
 - Analyzed hydrophilic surface functionalization of carbon paper via cyclic voltammetry
-
+<br>
 
 ### Experimental Basis
 - Carbon paper electrode wetting methodology (Goulet et al.)
 - Quinone/hydroquinone redox system as the electrochemical probe
 - Cyclic voltammetry (CV) analysis
-
+<br>
 
 ### Materials and Methods
 **Electrolyte Preparation**
@@ -39,6 +39,6 @@ In this experiment, both the working electrode and the counter electrode were ca
 
 - Fill the solution reservoir with 15 mL of the 3 M H₂SO₄ electrolyte.
 - Cut the carbon paper electrode so that the exposed reaction area is 1 cm × 1 cm, while the section used for electrical connection is 1 cm × 0.3 cm
-
+<br>
 
 ### Experiment Results
