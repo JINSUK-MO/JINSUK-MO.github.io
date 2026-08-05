@@ -24,5 +24,5 @@ sidebar:
 
 ### Languages
 - Korean (Native)
-- English (Full Academic Fluency, CEFR C1)
+- English (CEFR C1)
 - German (CEFR B1)
