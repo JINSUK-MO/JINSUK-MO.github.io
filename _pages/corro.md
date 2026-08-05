@@ -12,12 +12,8 @@ sidebar:
 **Formation of Goethite layer for preventing rebar corrosion in marine atmosphere**
 
 
-### Hosted by
-The Corrosion Science Society of Korea
-
-
-### Duration
-*Mar. 2025 – Sep. 2025*
+### Host · Duration
+The Corrosion Science Society of Korea | *Mar. 2025 – Sep. 2025*
 
 
 ### Overview
