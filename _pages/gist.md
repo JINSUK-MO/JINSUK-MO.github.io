@@ -19,15 +19,14 @@ Gwangju Institute of Science and Technology (GIST)
 
 ### Overview
 <div style="text-align: center;">
-  <img src="/assets/images/gist.jpg" width="50%" alt="Overview">
+  <img src="/assets/images/gistoverview.jpg" width="50%" alt="Overview">
 </div>
 
 
 ### Key Aspects
-- Chloride-induced corrosion mechanism under alkaline conditions (concrete) in marine atmospheres
-- Phase transformation-driven multilayer rust formation
-- Cr/Si alloying strategy for stable goethite formation
-- Corrosion mitigation through microstructural control
+- MXene-TiO2/g-C3N4 type II-II heterojunction
+- Coordination-stabilized Pd single atom catalysts (SACs)
+- Low-coordinated Ti active sites
 
 
 ### Summary
