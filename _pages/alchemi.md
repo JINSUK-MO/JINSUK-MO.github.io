@@ -16,7 +16,7 @@ sidebar:
 An idea competition aimed at promoting future-oriented R&D and the development of core technologies.
 
 
-### ### Host · Duration
+### Host · Duration
 Ministry of Trade, Industry and Energy and Korea Planning & Evaluation Institute of Industrial Technology (KEIT) | *Feb. 2024 – May. 2024*
 
 
