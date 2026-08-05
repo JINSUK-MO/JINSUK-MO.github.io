@@ -22,6 +22,11 @@ sidebar:
 - Cyclic voltammetry (CV) analysis
 <br>
 
+### Electrochemical System
+**Quinone/Hydroquinone Redox Reaction**
+<br>
+Reversible surface redox couple on carbon paper
+
 ### Materials and Methods
 **Electrolyte Preparation**
 <br>
