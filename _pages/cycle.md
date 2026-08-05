@@ -23,11 +23,11 @@ sidebar:
 <br>
 
 ### Electrochemical System
-- **Quinone/Hydroquinone Redox Reaction**
+- **Quinone/Hydroquinone Redox Reaction** <br>
 Surface redox couple on carbon paper
 <br>
 
-- **Irreversible Randles–Ševčík equation**
+- **Irreversible Randles–Ševčík equation** <br>
 I<sub>p</sub> = 3.01 × 10<sup>5</sup> · A · n<sup>3/2</sup> · (1 − α)<sup>1/2</sup> · D<sub>ox</sub><sup>1/2</sup> · c<sub>0,ox</sub> · √v (Eq. 1)
 
 <br>
