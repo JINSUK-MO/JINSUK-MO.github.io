@@ -10,25 +10,20 @@ sidebar:
 
 
 ### Purpose of the Competition
-<br>
 An idea competition aimed at promoting future-oriented R&D and the development of core technologies.
 
 
 ### Hosted by
-<br>
 Ministry of Trade, Industry and Energy and Korea Planning & Evaluation Institute of Industrial 
 Technology (KEIT)
 
 
 ## Topic
-<br>
 **Reversible meta-surfaces and IR laser for optical communication**
 
 
 ### Overview
-<br>
 **As-Is**
-<br>
 - Signal attenuation over long distances
 - Atmospheric interference limiting optical communication
 <br>
