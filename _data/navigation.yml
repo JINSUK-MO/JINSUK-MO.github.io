@@ -10,8 +10,6 @@ main:
     url: /awards/
   - title: "Skills"
     url: /skills/
-  - title: "Blog"
-    url: /blog/
 
 
 research:
