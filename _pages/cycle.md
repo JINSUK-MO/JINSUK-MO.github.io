@@ -37,7 +37,7 @@ I<sub>p</sub> = 3.01 × 10<sup>5</sup> · A · n<sup>3/2</sup> · (1 − α)<sup
 <br>
 - The supporting electrolyte was prepared by mixing deionized (DI) water and sulfuric acid (H₂SO₄) to obtain 15 mL of 3 M H₂SO₄ (4.41 g H₂SO₄).
 - Add DI water to a vial using a micropipette.
-- Using a micropipette, add H₂SO₄ solution until the total amount of H₂SO₄ reaches 4.41 g, thereby preparing 15 mL of 3 M H₂SO₄. This procedure must be carried out safely inside a fume hood.
+- Using a micropipette, add H₂SO₄ solution until the total amount of H₂SO₄ reaches 4.41 g, thereby preparing 15 mL of 3 M H₂SO₄.
 
 
 **Cell Fabrication**
