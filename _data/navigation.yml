@@ -32,7 +32,10 @@ projects:
 activities:
 
 musings:
-
+  - title: ""
+    url: /mc/
+  - title: ""
+    url: /cmr/
 
 2024_p:
   - title: "Alchemist Future Innovation Idea Competition"
