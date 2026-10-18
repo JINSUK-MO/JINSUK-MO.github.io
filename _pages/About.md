@@ -25,7 +25,7 @@ Materials Science and Engineering, Korea University<br>
 - Surface and Interface Science
 - Surface Functionalization
 - 2D materials
-- Phase Transformations
+- Electrochemistry
 
 
 ### Email
