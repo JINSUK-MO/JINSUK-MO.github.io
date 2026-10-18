@@ -12,6 +12,8 @@ main:
     url: /skills/
   - title: "Activities"
     url: /activities/
+  - title: "Musings"
+    url: /musings/
 
 
 research:
@@ -28,6 +30,8 @@ projects:
     url: /2026_p/
 
 activities:
+
+musings:
 
 
 2024_p:
