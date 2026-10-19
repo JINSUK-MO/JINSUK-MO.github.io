@@ -11,3 +11,5 @@ sidebar:
 <br>
 
 ## Personal Insights
+
+I'm also interested in **ferroelectric and ferromagnetic** materials, and reactions e.g. **Faradaic reaction, diffusion, electromigration and electroosmosis**.
